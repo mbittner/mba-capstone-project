@@ -1,5 +1,42 @@
 # Proposed Dissertation Topics for MBA Dissertation
 
+---
+
+## 🔍 QUICK COMPARISON TABLE
+
+Use this table to quickly scan and compare all 18 topics across key dimensions. Click through to detailed sections below for more information.
+
+| # | Topic | Primary Focus | MBA Theme | Feasibility | Complexity | Business Impact | Your Interest |
+|---|-------|---------------|-----------|------------|-----------|-----------------|---------------|
+| 1 | Leading Digital Change | Leadership behaviors in transformation | Innovation & Change | High | Medium | High | ⭐⭐⭐⭐ |
+| 2 | Culture as Enabler | Organizational culture for innovation | Culture, Leadership & Innovation | High | Medium | High | ⭐⭐⭐⭐ |
+| 3 | Strategic Thinking | Decision-making under uncertainty | Strategic Thinking | Medium | High | High | ⭐⭐⭐ |
+| 4 | Leadership Styles | Leadership effectiveness in change | Essence of Leadership | High | Medium | Medium | ⭐⭐⭐ |
+| 5 | Innovation in Consulting | Consulting engagement models | Innovation & Change | High | Medium | High | ⭐⭐⭐⭐⭐ |
+| 6 | Resistance to Change | Overcoming change resistance | Innovation & Change | High | Low | Medium | ⭐⭐⭐ |
+| 7 | Building Leadership Capability | Leader development for innovation | Essence of Leadership | Medium | Medium | Medium | ⭐⭐⭐ |
+| 8 | Strategic Innovation | Balancing stability & innovation | Strategic Thinking | High | High | High | ⭐⭐⭐⭐ |
+| 9 | Knowledge Transfer | Sustaining change through knowledge | Innovation & Change | High | Medium | Medium | ⭐⭐⭐⭐ |
+| 10 | Organizational Agility | Building agile culture & practices | Strategic Thinking | High | Medium | High | ⭐⭐⭐⭐ |
+| 11 | Portfolio Management | Prioritizing innovation initiatives | Strategic Thinking | Medium | High | High | ⭐⭐⭐ |
+| 12 | Psychological Safety | Team safety for innovation | Culture, Leadership & Innovation | Medium | Medium | Medium | ⭐⭐⭐⭐ |
+| 13 | Change Fatigue | Managing pace & momentum | Innovation & Change | High | Medium | High | ⭐⭐⭐⭐⭐ |
+| 14 | Internal vs External | Build vs buy vs partner decisions | Strategic Thinking | Medium | High | High | ⭐⭐⭐ |
+| 15 | Technology Disruption | Navigating tech change | Strategic Thinking | Medium | High | High | ⭐⭐⭐⭐ |
+| 16 | Diversity & Inclusion | Leveraging diversity for innovation | Culture, Leadership & Innovation | Medium | Medium | Medium | ⭐⭐⭐ |
+| 17 | Trust & Collaboration | Multi-stakeholder alignment | Essence of Leadership | High | High | High | ⭐⭐⭐⭐⭐ |
+| 18 | Scaling Innovation | Pilot to enterprise expansion | Innovation & Change | High | Medium | High | ⭐⭐⭐⭐⭐ |
+
+### Legend:
+- **Feasibility**: How easy to access organizations, data, and conduct research
+- **Complexity**: Analytical and methodological complexity
+- **Business Impact**: How directly applicable to CGI consulting work
+- **Your Interest**: My assessment based on your profile and previous questions
+
+---
+
+## DETAILED TOPIC DESCRIPTIONS
+
 ## 1. Leading digital change in insurance
 
 **Possible Title:** *How leadership influences successful digital transformation in insurance consulting*

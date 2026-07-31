@@ -4,7 +4,7 @@
 
 ## 🔍 QUICK COMPARISON TABLE
 
-Use this table to quickly scan and compare all 18 topics across key dimensions. Click through to detailed sections below for more information.
+Use this table to quickly scan and compare all 19 topics across key dimensions. Click through to detailed sections below for more information.
 
 | # | Topic | Primary Focus | MBA Theme | Feasibility | Complexity | Business Impact | Your Interest |
 |---|-------|---------------|-----------|------------|-----------|-----------------|---------------|
@@ -26,6 +26,7 @@ Use this table to quickly scan and compare all 18 topics across key dimensions. 
 | 16 | Diversity & Inclusion | Leveraging diversity for innovation | Culture, Leadership & Innovation | Medium | Medium | Medium | ⭐⭐⭐ |
 | 17 | Trust & Collaboration | Multi-stakeholder alignment | Essence of Leadership | High | High | High | ⭐⭐⭐⭐⭐ |
 | 18 | Scaling Innovation | Pilot to enterprise expansion | Innovation & Change | High | Medium | High | ⭐⭐⭐⭐⭐ |
+| 19 | AI Adoption | Leadership, trust, and governance for AI use | Innovation & Change | Medium | Medium | High | ⭐⭐⭐⭐⭐ |
 
 ### Legend:
 - **Feasibility**: How easy to access organizations, data, and conduct research
@@ -335,12 +336,29 @@ Use this table to quickly scan and compare all 18 topics across key dimensions. 
 
 ---
 
+## 19. AI adoption in insurance
+
+**Possible Title:** *How leadership, trust, and governance shape successful AI adoption in insurance organizations*
+
+**Focus:**
+- What helps AI move from experimentation to everyday use
+- How leaders build trust in AI-enabled tools and decisions
+- Why governance, communication, and capability building matter
+
+**Why It Works:**
+- Highly current and strongly relevant to insurance and consulting
+- Lets you focus on adoption rather than the technology itself
+- Connects leadership, culture, and innovation in a practical way
+
+---
+
 ## Quick categorization by MBA theme:
 
 **Innovation & Change:**
 - Knowledge transfer (#9)
 - Change fatigue (#13)
 - Scaling innovation (#18)
+- AI adoption (#19)
 
 **Strategic Thinking:**
 - Innovation portfolio management (#11)

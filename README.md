@@ -15,7 +15,7 @@ This repository is a working document set for the MBA Capstone / Dissertation mo
 - [02_Key_Documents/](./02_Key_Documents/) — dissertation handbooks, ethics pack, and reference material
 - [03_Preparation_Work/](./03_Preparation_Work/) — preparation slides and exercises
 - [04_Monday/](./04_Monday/) to [09_Post_Residency/](./09_Post_Residency/) — session materials and study documents
-- [Ideas/](./Ideas/) — topic brainstorming and proposal drafts
+- [Ideas/](./Ideas/) — one folder per topic, each containing the idea draft and its proposal draft
 - [Capstone Project/](./Capstone%20Project/) — current module documents and process files
 
 ## Key documents
@@ -29,4 +29,3 @@ This repository is a working document set for the MBA Capstone / Dissertation mo
 - Many source files are PDFs or Word documents; the Markdown summaries capture the main takeaways.
 - Several resources are dated and should be checked against the current handbook and supervisor guidance before use.
 - Ethics approval must be obtained before collecting any participant data.
-
